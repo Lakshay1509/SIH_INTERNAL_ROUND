@@ -1,0 +1,26 @@
+
+
+.defaultHighlightTypeCursor {color:#FFF;background-color:#FFFFFF;}
+.defaultHighlightTypeRange {color:#000;background-color:#FFFFFF;}
+.defaultColname {font-size:small;text-align:center;color:#FFFFFF;background-color:#FFFFFF;cursor:e-resize;}
+.defaultSelectedColname {font-size:small;text-align:center;color:#FFFFFF;background-color:#FFFFFF;cursor:e-resize;}
+.defaultRowname {font-size:small;text-align:right;color:#FFFFFF;background-color:#FFFFFF;}
+.defaultSelectedRowname {font-size:small;text-align:right;color:#FFFFFF;background-color:#FFFFFF;}
+.defaultUpperLeft {font-size:small;}
+.defaultSkippedCell {font-size:small;background-color:#FFFFFF;}
+.defaultPaneDivider {font-size:small;background-color:#FFFFFF;padding:0px;}
+.TCmain {background-color:#FFFFFF;}
+.TCendcap {background-color:#FFFFFF;}
+.TCpaneslider {background-color:#FFFFFF;}
+.TClessbutton {background-color:#FFFFFF;}
+.TCmorebutton {background-color:#FFFFFF;}
+.TCscrollarea {background-color:#FFFFFF;}
+.TCthumb {background-color:#FFFFFF;}
+.TCPStrackingline {overflow:hidden;position:absolute;z-index:100;}
+.TCTDFSthumbstatus {height:20px;width:auto;border:1px solid black;padding:2px;
+ background-color:#FFFFFF;font-size:small;position:absolute;z-index:100;}
+.TDpopupElement {border:1px solid black;padding:1px 2px 2px 2px;text-align:center;background-color:#FFFFFF;
+ font-size:7pt;font-family:Verdana,Arial,Helvetica,sans-serif;
+ position:absolute;width:auto;z-index:110;}
+
+
